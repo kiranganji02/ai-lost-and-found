@@ -1,5 +1,4 @@
-# Campus Lost & Found (code:-
-WT6XJ6 )
+# Campus Lost & Found (code:- WT6XJ6 )
 A clean, modern, and minimal Lost & Found web application designed specifically for **schools and colleges**.
 
 Built with pure **HTML**, **CSS**, and **JavaScript** — separated cleanly across dedicated files.
